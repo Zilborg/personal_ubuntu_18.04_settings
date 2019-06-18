@@ -1,6 +1,13 @@
 ## Used Theme 
 *Adapta-Nokto-Eta*
 
+## Icon theme - Dalisha
+```
+sudo add-apt-repository ppa:noobslab/icons
+sudo apt-get update
+sudo apt-get install dalisha-icons
+```
+
 ## Solution for firefox dark input
 https://www.mkammerer.de/blog/gtk-dark-theme-and-firefox/
 
