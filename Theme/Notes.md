@@ -1,3 +1,6 @@
+## Change ubuntu.css
+sudo gedit /usr/share/gnome-shell/theme/ubuntu.css
+
 ## Used Theme 
 *Adapta-Nokto-Eta*
 
