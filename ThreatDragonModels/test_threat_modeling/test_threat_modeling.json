@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "test_threat_modeling",
+    "owner": "I"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "New1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
